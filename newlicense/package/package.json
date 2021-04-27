@@ -1,0 +1,20 @@
+{
+  "name": "chartiq",
+  "version": "8.2.0",
+  "author": "ChartIQ <support@chartiq.com>",
+  "description": "Enterprise grade HTML5 Charting Library by ChartIQ",
+  "main": "js/chartiq.js",
+  "type": "module",
+  "private": true,
+  "files": [
+    "js/**/*",
+    "css/*",
+    "css/img/*",
+    "examples/**/*",
+    "mobile/**/*",
+    "plugins/**/*",
+    "modules/**/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

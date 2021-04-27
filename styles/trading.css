@@ -1,0 +1,47 @@
+.trade-chart-container {
+  display: flex;
+}
+
+.chart-area {
+  width: 85%;
+  height: 100vh;
+}
+
+.trade-area {
+  width: 15%;
+  color: #969a9e;
+  padding: 3em 2em 2em 2em;
+}
+
+.trade-area .row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1em;
+  align-items: center;
+}
+
+.trade-area .button {
+  height: 5em;
+  width: 50%;
+}
+
+.trade-area .button .dropdown {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.trade-span {
+  margin-right: 0.5em;
+}
+
+.ciq-chart-area {
+  width: 85%;
+}
+
+.ciq-footer {
+  width: 85%;
+}
+
+.trade-icon {
+  width: 1.5em;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "trading_chart",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start",
+    "semantic-build": "cd styles/semantic && gulp build-css"
+  },
+  "dependencies": {
+    "antd": "^4.14.0",
+    "chartiq": "file:newlicense/chartiq-8.2.0.tgz",
+    "next": "^10.0.8",
+    "next.js": "^1.0.3",
+    "react": "17.0.1",
+    "react-color": "^2.19.3",
+    "react-dom": "17.0.1",
+    "semantic-ui-react": "^2.0.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "semantic-ui": "^2.4.2",
+    "semantic-ui-less": "^2.4.1"
+  }
+}
